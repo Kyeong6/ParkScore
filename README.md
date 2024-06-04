@@ -11,11 +11,12 @@
 
 현대 도시 환경에서 공원의 중요성은 날로 증가하고 있다. 도시의 인구 밀집과 환경 문제는 시민들에게 쾌적한 생활환경을 제공하는 공원의 필요성을 더욱 부각시키고 있다. 이러한 배경에서 전국 도시공원의 정보를 종합적으로 제공하고, 이를 통해 지자체가 효율적으로 도시공원 계획을 수립할 수 있도록 돕기 위한 한국형 ParkScore의 개발이 필요하다고 판단하였다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0c79766f-e6e5-47fb-bb1f-6711656123dd/33a9d38f-04ab-45ca-8479-4aa67fab7584/Untitled.png)
+<img width="960" alt="background_01" src="https://github.com/Kyeong6/ParkScore/assets/100195725/2a782263-6ef8-499e-9a80-a8b84f92cc5c">
+
 
 </br><br/>
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0c79766f-e6e5-47fb-bb1f-6711656123dd/c7501355-70c4-4995-8cda-b053090e4d61/Untitled.png)
-
+<img width="960" alt="background_02" src="https://github.com/Kyeong6/ParkScore/assets/100195725/1f50f4cf-e182-40e8-b80f-ec64ba7338f4">
+</br><br/>
 
 한국형 ParkScore는 공공데이터 포털, 국토지리정보원, KOSIS 등 신뢰할 수 있는 기관의 데이터를 활용하여 전국 도시공원의 접근성, 면적, 투자, 공평성, 시설이라는 5개의 주요 지표를 설정하고, 이를 바탕으로 점수와 순위를 산정하여 제공한다.
 </br><br/>
@@ -51,7 +52,11 @@ ParkScore Ranking 서비스는 신뢰성 높은 공공데이터를 활용하여 
 
 **지표정보**
 
-> 접근(link: 수식과 같은 상세정보 링크로 이동)
+점수산정방식  :  [Scoring method](https://github.com/Kyeong6/ParkScore/tree/main/result)
+
+</br><br/>
+
+> 접근
 > 
 
 | 데이터 | 생활권공원 서비스 권역 내 인구수(0.75km) |
@@ -59,9 +64,10 @@ ParkScore Ranking 서비스는 신뢰성 높은 공공데이터를 활용하여 
 | 보유기관 | 국토정보플랫폼 국토통계지도 |
 | 분야 | 인구 통계 |
 | 중요성 | 공원의 접근성은 시민들의 이용 편의성을 직접적으로 반영 |
+
 </br><br/>
 
-> 면적(link)
+> 면적
 > 
 
 | 데이터 | 전국도시공원표준데이터 |
@@ -69,9 +75,10 @@ ParkScore Ranking 서비스는 신뢰성 높은 공공데이터를 활용하여 
 | 보유기관 | 공공데이터 포털 |
 | 분야 | 도시면적 및 도시공원 면적 |
 | 중요성 | 도시공원의 면적은 시민들이 이용할 수 있는 공간의 크기를 의미 |
+
 </br><br/>
 
-> 투자(link)
+> 투자
 > 
 
 | 데이터 | 지자체의 도시공원 관련 부서 예산안 |
@@ -79,9 +86,10 @@ ParkScore Ranking 서비스는 신뢰성 높은 공공데이터를 활용하여 
 | 보유기관 | 각 지자체 홈페이지 |
 | 분야 | 재정 |
 | 중요성 | 공원에 대한 투자는 공원의 유지 및 발전 가능성 표시 |
+
 </br><br/>
 
-> 공평(link)
+> 공평
 > 
 
 | 데이터 | 지역통계(지자체 기본통계) 토지 및 기후 행정구역 데이터 |
@@ -89,9 +97,10 @@ ParkScore Ranking 서비스는 신뢰성 높은 공공데이터를 활용하여 
 | 보유기관 | KOSIS, 각 지자체 홈페이지 |
 | 분야 | 행정 구역 및 토지 통계 |
 | 중요성 | 공원의 분포가 공평하게 이루어졌는지 평가 |
+
 </br><br/>
 
-> 시설(link)
+> 시설
 > 
 
 | 데이터 | 전국도시공원표준데이터, 도시공원 시설데이터 |
@@ -99,21 +108,24 @@ ParkScore Ranking 서비스는 신뢰성 높은 공공데이터를 활용하여 
 | 보유기관 | 공공데이터 포털, 정보공개포털(청구) |
 | 분야 | 도시공원 별 시설물 통계 |
 | 중요성 | 공원의 시설은 공원의 기능성과 편의성을 결정하는 중요한 요소 |
+
 </br><br/>
 
 ## 서비스의 구성
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0c79766f-e6e5-47fb-bb1f-6711656123dd/e56bad4e-931c-412b-811d-ea2a4da27ca1/Untitled.png)
+<img width="1524" alt="website" src="https://github.com/Kyeong6/ParkScore/assets/100195725/3c8b4fb2-60d1-49d3-997d-83eeba10cf04">
 
-(Link 첨부)
+서비스 확인 : [GPS's ParkScore](https://korea-parkscore.pages.dev/)
 </br><br/>
 
-**ParkScore Weight**
+> ParkScore Weight
+> 
 
 5개의 지표가 각각 20%씩의 가중치가 부여된다. 화살표를 이동시켜 가중치를 변경하면 각 지표의 점수에 따라 순위가 변동된다.
 </br><br/>
 
-**도시 검색**
+> 도시 검색
+> 
 
 도시의 각 지표 별 세부 점수를 시각적으로 표현되어 있고, 검색 기능을 통해 자신이 거주하는 도시나 관심 있는 도시의 점수를 쉽게 파악할 수 있다.
 </br><br/>
