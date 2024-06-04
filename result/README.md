@@ -4,9 +4,10 @@
 
 점수산정방식: 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0c79766f-e6e5-47fb-bb1f-6711656123dd/d8bdb67c-8d16-45a0-85f5-d2483384deea/Untitled.png)
+<img width="823" alt="access_01" src="https://github.com/Kyeong6/ParkScore/assets/100195725/18166651-7f99-4c4f-b881-f7352f09af82">
 
-전처리 과정 : (link)
+
+전처리 과정 : [access_data_preprocessing](https://github.com/Kyeong6/ParkScore/blob/main/data_preprocessing/access/parkscore_access.ipynb)
 
 공원의 접근성은 시민들이 공원을 얼마나 쉽게 이용할 수 있는지를 나타내는 중요한 지표이다. 
 
@@ -19,17 +20,20 @@
 
 평균공원 크기 : 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0c79766f-e6e5-47fb-bb1f-6711656123dd/d6bb44cf-201b-4f51-90aa-8c6d67c4e887/Untitled.png)
+<img width="323" alt="acreage_01" src="https://github.com/Kyeong6/ParkScore/assets/100195725/35fd33bb-e979-4fd6-9183-0b4be1d883c2">
+
 
 공원부지 비율 : 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0c79766f-e6e5-47fb-bb1f-6711656123dd/b8dd29d8-e9c3-41a6-9fbb-3e867e57d1f3/Untitled.png)
+<img width="323" alt="acreage_02" src="https://github.com/Kyeong6/ParkScore/assets/100195725/6c02d5dd-14dc-41d4-8814-776deaa158e5">
+
 
 점수산정방식 : 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0c79766f-e6e5-47fb-bb1f-6711656123dd/1a298fb8-2baf-45ba-8d6f-75b16a8f1c96/Untitled.png)
+<img width="374" alt="acreage_03" src="https://github.com/Kyeong6/ParkScore/assets/100195725/bb545e50-c63f-4831-869a-d7041c79f24d">
 
-전처리 과정 : (link)
+
+전처리 과정 : [acreage_data_preprocessing](https://github.com/Kyeong6/ParkScore/blob/main/data_preprocessing/acreage/parkscore_acrege.ipynb)
 
 평균 공원 크기와 공원 부지 비율을 고려하여 도시의 녹지 환경을 종합적으로 평가한다.
 
@@ -43,9 +47,10 @@
 
 점수산정방식 : 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0c79766f-e6e5-47fb-bb1f-6711656123dd/0387f712-1e15-4db3-b87c-b48732d1c98a/Untitled.png)
+<img width="464" alt="investment_01" src="https://github.com/Kyeong6/ParkScore/assets/100195725/3a13a82b-29dd-4714-ad62-7af8f0e97825">
 
-전처리 과정 : (link)
+
+전처리 과정 : 
 
 공원에 대한 투자는 공원의 유지, 관리, 발전 가능성을 나타내는 중요한 지표이다. 100점 만점을 위해서 10,000을 곱하였고 3년 예산안을 사용한 이유는 다음과 같다.
 
@@ -59,9 +64,10 @@
 
 점수산정방식 : 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0c79766f-e6e5-47fb-bb1f-6711656123dd/845e50f8-935e-44af-9634-7f2e823e1310/Untitled.png)
+<img width="637" alt="equity_01" src="https://github.com/Kyeong6/ParkScore/assets/100195725/621f71d8-52a1-4492-b8ff-fee6c403359a">
 
-전처리 과정 : (link)
+
+전처리 과정 : [equity_data_preprocessing](https://github.com/Kyeong6/ParkScore/blob/main/data_preprocessing/equity/parkscore_equity.ipynb)
 
 도시 공원의 공평한 지리적 분포는 모든 주민이 인종, 소득 수준, 거주지에 관계없이 공원에 접근할 수 있도록 보장하는 것을 목표로 한다.
 
@@ -73,9 +79,10 @@
 
 점수산정방식 : 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0c79766f-e6e5-47fb-bb1f-6711656123dd/8a469b4c-c912-44f7-b17a-dbea72447de5/Untitled.png)
+<img width="728" alt="amentities_01" src="https://github.com/Kyeong6/ParkScore/assets/100195725/73aead2d-e5f3-44ed-b24b-84a913ee689b">
 
-전처리 과정 : (link)
+
+전처리 과정 : [amenities_data_preprocessing](https://github.com/Kyeong6/ParkScore/blob/main/data_preprocessing/amenities/parkscore_amentities.ipynb)
 
 공원의 시설은 시민들의 공원 이용 경험에 직접적인 영향을 미친다.
 
