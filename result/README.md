@@ -50,7 +50,7 @@
 <img width="464" alt="investment_01" src="https://github.com/Kyeong6/ParkScore/assets/100195725/3a13a82b-29dd-4714-ad62-7af8f0e97825">
 
 
-전처리 과정 : 
+전처리 과정 : [investment_data_preprocessing](https://github.com/Kyeong6/ParkScore/blob/main/data_preprocessing/investment/README.md)
 
 공원에 대한 투자는 공원의 유지, 관리, 발전 가능성을 나타내는 중요한 지표이다. 100점 만점을 위해서 10,000을 곱하였고 3년 예산안을 사용한 이유는 다음과 같다.
 
