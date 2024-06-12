@@ -52,7 +52,8 @@ ParkScore Ranking 서비스는 신뢰성 높은 공공데이터를 활용하여 
 
 **지표정보**
 
-점수산정방식  :  [Scoring method](https://github.com/Kyeong6/ParkScore/tree/main/result)
+점수산정방식  :  [Scoring method](https://github.com/Kyeong6/ParkScore/tree/main/result)   
+지표점수확인  :  [Scoring_visualization](https://github.com/Kyeong6/ParkScore/tree/main/visualization/results/five_metrics)  
 
 </br><br/>
 
@@ -113,7 +114,7 @@ ParkScore Ranking 서비스는 신뢰성 높은 공공데이터를 활용하여 
 
 ## 서비스의 구성
 
-<img width="1524" alt="website" src="https://github.com/Kyeong6/ParkScore/assets/100195725/3c8b4fb2-60d1-49d3-997d-83eeba10cf04">
+<img width="1526" alt="스크린샷 2024-06-12 오전 9 08 07" src="https://github.com/Kyeong6/ParkScore/assets/100195725/5198013b-af74-4be7-a293-91f70f54e996">
 
 서비스 확인 : [GPS's ParkScore](https://korea-parkscore.pages.dev/)
 </br><br/>
