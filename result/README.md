@@ -27,6 +27,9 @@
 
 <img width="323" alt="acreage_02" src="https://github.com/Kyeong6/ParkScore/assets/100195725/6c02d5dd-14dc-41d4-8814-776deaa158e5">
 
+1인당 공원면적 :
+
+![image](https://github.com/Kyeong6/ParkScore/assets/100195725/9abc5833-8f1a-4add-acce-6ce5e6693775)
 
 점수산정방식 : 
 
@@ -35,10 +38,11 @@
 
 전처리 과정 : [acreage_data_preprocessing](https://github.com/Kyeong6/ParkScore/blob/main/data_preprocessing/acreage/parkscore_acrege.ipynb)
 
-평균 공원 크기와 공원 부지 비율을 고려하여 도시의 녹지 환경을 종합적으로 평가한다.
+평균 공원 크기, 공원 부지 비율 및 1인당 공원면적을 고려하여 도시의 녹지 환경을 종합적으로 평가한다.
 
 - 평균 공원 크기 : 평균 공원 크기를 고려함으로써 각 도시의 공원들이 평균적으로 얼마나 큰지를 평가할 수 있으며, 도시에 접근할 수 있는 공원의 크기를 비교할 수 있다.
 - 공원 부지 비율 : 공원 부지 비율을 통해 도시면적 대비 공원이 얼마나 차지하는 지를 평가하며, 이는 도시의 환경적 가치를 판단하는 중요한 기준이 된다.
+- 1인당 공원면적 :  1인당 공원면적이 클수록 시민들은 더 많은 녹지 공간을 이용할 수 있으며, 이는 도시의 생활 환경을 개선하고 주민의 신체적, 정신적 건강에 긍정적인 영향을 미친다
 - 통합평가 : 도시의 녹지 환경인 도시공원의 크기와 도시면적 대비 공원 면적을 모두 고려하여 균형 잡힌 평가를 진행한다. </br><br/>
 
 ---
