@@ -114,9 +114,9 @@ ParkScore Ranking 서비스는 신뢰성 높은 공공데이터를 활용하여 
 
 ## 서비스의 구성
 
-<img width="1526" alt="스크린샷 2024-06-12 오전 9 08 07" src="https://github.com/Kyeong6/ParkScore/assets/100195725/5198013b-af74-4be7-a293-91f70f54e996">
+<img width="1512" height="866" alt="Image" src="https://github.com/user-attachments/assets/37fad1e1-f6d6-4c52-9203-f8399393ddda" />
 
-서비스 확인 : [GPS's ParkScore](https://korea-parkscore.pages.dev/)
+서비스 확인 : [GPS's ParkScore](https://parkscore-web.vercel.app/)
 </br><br/>
 
 > ParkScore Weight
